@@ -1,6 +1,6 @@
 # 👨🏻‍💻 Сергей Бернякович
 
-Blog [🇺🇸](https://webern.kz/) [🇯🇵](https://ja.ngs.io/) / Bio [🇺🇸](https://ngs.io/about/) [🇯🇵](https://ja.ngs.io/about/) / [Twitter](https://twitter.com/ngs) / [Dribbble](https://dribbble.com/ngs)
+ [Блог](https://webern.kz/) / Bio [🇺🇸](https://ngs.io/about/) [🇯🇵](https://ja.ngs.io/about/) / [Twitter](https://twitter.com/ngs) / [Dribbble](https://dribbble.com/ngs)
 
 ![iwana](https://live.staticflickr.com/65535/50097850046_d0ccd4ab12.jpg)
 
