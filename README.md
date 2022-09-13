@@ -12,7 +12,9 @@
 
 В настоящее время нахожусь в поисках новой команды разработки.
 
-Мой стэк - React, Redux toolkit, Typescript, Styled components.
+Мой стэк - React, Redux toolkit, Typescript.
+
+Опыт разработки на Next, MaterialUI, Styled components.
 
 Люблю решать задачи, возникающие в процессе разработки. Имею хорошо развитое логическое мышление.
 
